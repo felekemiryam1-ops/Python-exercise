@@ -1,1 +1,3 @@
-print("password generator")
+import string
+
+print (string.ascii_uppercase)
