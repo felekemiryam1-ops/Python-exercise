@@ -14,7 +14,7 @@ def calculator(prompt):
                    break
             print("invalid operator")
                    
-       y = int(input(prompt))
+       y = int(input("2nd number?"))
 
        if c == "+":
                 print(x + y)
